@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\bin\Release\quizzy.exe.config
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\bin\Release\quizzy.exe
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\bin\Release\quizzy.pdb
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Release\quizzy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Release\quizzy.Form1.resources
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Release\quizzy.Properties.Resources.resources
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Release\quizzy.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Release\quizzy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Release\quizzy.exe
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Release\quizzy.pdb

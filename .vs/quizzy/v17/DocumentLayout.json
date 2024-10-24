@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Home\\Writing\\Suli\\quizzy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F391A348-BA1D-4D17-91E0-2AEF06BA29F8}|quizzy\\quizzy.csproj|c:\\users\\user\\desktop\\home\\writing\\suli\\quizzy\\quizzy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391A348-BA1D-4D17-91E0-2AEF06BA29F8}|quizzy\\quizzy.csproj|solutionrelative:quizzy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391A348-BA1D-4D17-91E0-2AEF06BA29F8}|quizzy\\quizzy.csproj|C:\\Users\\user\\Desktop\\Home\\Writing\\Suli\\quizzy\\quizzy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F391A348-BA1D-4D17-91E0-2AEF06BA29F8}|quizzy\\quizzy.csproj|solutionrelative:quizzy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391A348-BA1D-4D17-91E0-2AEF06BA29F8}|quizzy\\quizzy.csproj|c:\\users\\user\\desktop\\home\\writing\\suli\\quizzy\\quizzy\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391A348-BA1D-4D17-91E0-2AEF06BA29F8}|quizzy\\quizzy.csproj|solutionrelative:quizzy\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391A348-BA1D-4D17-91E0-2AEF06BA29F8}|quizzy\\quizzy.csproj|c:\\users\\user\\desktop\\home\\writing\\suli\\quizzy\\quizzy\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F391A348-BA1D-4D17-91E0-2AEF06BA29F8}|quizzy\\quizzy.csproj|solutionrelative:quizzy\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391A348-BA1D-4D17-91E0-2AEF06BA29F8}|quizzy\\quizzy.csproj|c:\\users\\user\\desktop\\home\\writing\\suli\\quizzy\\quizzy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391A348-BA1D-4D17-91E0-2AEF06BA29F8}|quizzy\\quizzy.csproj|solutionrelative:quizzy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Home\\Writing\\Suli\\quizzy\\quizzy\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "quizzy\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Home\\Writing\\Suli\\quizzy\\quizzy\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "quizzy\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:05:54.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Home\\Writing\\Suli\\quizzy\\quizzy\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "quizzy\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Home\\Writing\\Suli\\quizzy\\quizzy\\Properties\\Resources.resx",
+              "RelativeToolTip": "quizzy\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-01T19:05:47.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Home\\Writing\\Suli\\quizzy\\quizzy\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "quizzy\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Home\\Writing\\Suli\\quizzy\\quizzy\\Form1.Designer.cs",
+              "RelativeToolTip": "quizzy\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:04:01.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Home\\Writing\\Suli\\quizzy\\quizzy\\Form1.cs",
+              "RelativeDocumentMoniker": "quizzy\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Home\\Writing\\Suli\\quizzy\\quizzy\\Form1.cs",
+              "RelativeToolTip": "quizzy\\Form1.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAQwJEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:58:16.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Home\\Writing\\Suli\\quizzy\\quizzy\\Form1.cs",
+              "RelativeDocumentMoniker": "quizzy\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Home\\Writing\\Suli\\quizzy\\quizzy\\Form1.cs [Design]",
+              "RelativeToolTip": "quizzy\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:25:48.39Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

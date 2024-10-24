@@ -1,0 +1,43 @@
+Ki fedezte fel a C-vitamint?;Szent-Györgyi Albert;Czeizel Endre;Semmelweis Ignác;Adolf Hitler
+Mi a talizmán?;Szerencsés tárgy;Ritka madárféle;Szúrófegyver;Papagáj
+Mi a kén vegyjele?;S;K;C;He
+Hány csontja van a cápának?;Nulla;206;kb. 90;1
+Melyik állatban lehet gyöngyöt találni?;Kagyló;Rák;Homár;Ember
+Hogy hívják a nőstény szarvast?;Dámvadtehén;Szarvaskanca;Szarvaskoca;Tyúk
+Melyik a leggyorsabb szárazföldi állat?;Gepárd;Tigris;Leopárd;Lajhár
+Milyen népszerű tengeri lény képes önmagát klónozni?;Medúza;Tintahal;Polip;Csirke
+Melyik emlősnek legerősebb a harapása a világon?;Víziló;Krokodil;Oroszlán;Nagykutya
+Rómában melyik állatot védik a törvények?;Macskák;Kutyák;Krokodil;Pillangó
+Mi a The Big Bang Theory főcímdal címe?;Mindennek története;Ott leszek neked;Kalifornia;Nika se perimeno
+Melyik szerző írta a Trónok harca könyveket?;George RR Martin;JK Rowling;CS Lewis;Petőfi Sándor
+Mi a világ legnagyobb szigete?;Grönland;Izland;Finnország;Korea
+Melyik ország rövidítése a „CH”?;Svájc;Horváthország;Chile;Magyarország
+Hány ország található az Egyesült Királyságon belül?;Négy;Kettő;Három;2/3
+Hol találná a „Spanyol lépcsőket”?;Olaszország;Spanyolország;Ausztria;Otthon
+Melyik az egyetlen ország, mely határos az Egyesült Királysággal?;Írország;Ausztria;Kolumbia;Románia
+Milyen folyó halad át Párizson?;Szajna;Hudson;Rajna;Körös
+Mi a neve a legkisebb óceánnak?;Jeges;Csendes;Indiai;Végtelen
+Melyik a világ leginkább földrengésveszélyes országa?;Japán;Korea;Tajvan;Wakanda
+Mi Ausztrália fővárosa?;Canberra;Melbourne;Sydney;Tulca
+Milyen állat az "Orca"?;Bálna;Polip;Majom;Teve
+Ki volt az első ember, aki a Holdon járt?;Neil Armstrong;Pete Conrad;Alan Shepard;Paul Walker
+Ki volt az első nő, aki Nobel-díjat kapott 1903-ban?;Marie Curie;Jane Addams;Rosalind Franklin;Varga Irén
+Milyen anyagból áll a köröm?;Keratin;Melanin;Szerotonin;Dinnye
+Mennyi ideig tartott a százéves háború?;116;100;101;Nem volt ilyen
+Mikor omlott le a berlini fal?;1989;1954;1945;Szerda
+Mi a szelfi?;önfotó;önámítás;önéletrajz;földrengés
+Mit jelent a CPU?;processzor;professzor;profósz;fülcimpa
+Mi Törökország pénzneme?;líra;euró;shiling;emberek
+Mivel foglalkozik az etnográfia?;néprajzzal;csillagászattal;írás történetével;szamarak
+Mi a kobalt vegyjele?;Co;K;Ko;nincs
+Mit jelent a halef szó?;kés;villa;kanál;beszédhiba
+Mi a tarantasz?;utazókocsi;bicikli;lovaskocsi;gereblye
+Hány pont van a dobókockán?;21;6;12;420
+Szarvas?;Mindkettő;Település;Állat;Rossz fém
+Hol alakult meg a világon az első tőzsde?;Antwerpen;Los Angeles;Szentpétervár;Tőzsdön
+1 byte hány bit?;8;16;4;5/6
+Mi a fényerősség mértékegysége?;kandela;mól;amper;celsius
+Mi a miópia?;rövidlátás;szemtengelyferdülés;távollátás;telefon
+Mi a kalcium-karbonát?;mészkő;dolomit;szóda;fa
+Mi a múmia szó jelentése?;szurok;szurdok;szurony;tehén
+Melyik vitamin a riboflavin?;B2;B1;B6;X

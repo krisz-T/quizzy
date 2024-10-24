@@ -1,0 +1,31 @@
+C:\Users\krisz\OneDrive\Asztali gép\Home\Book\School\quizzy\quizzy\bin\Debug\quizzy.exe.config
+C:\Users\krisz\OneDrive\Asztali gép\Home\Book\School\quizzy\quizzy\bin\Debug\quizzy.exe
+C:\Users\krisz\OneDrive\Asztali gép\Home\Book\School\quizzy\quizzy\bin\Debug\quizzy.pdb
+C:\Users\krisz\OneDrive\Asztali gép\Home\Book\School\quizzy\quizzy\obj\Debug\quizzy.csproj.AssemblyReference.cache
+C:\Users\krisz\OneDrive\Asztali gép\Home\Book\School\quizzy\quizzy\obj\Debug\quizzy.csproj.SuggestedBindingRedirects.cache
+C:\Users\krisz\OneDrive\Asztali gép\Home\Book\School\quizzy\quizzy\obj\Debug\quizzy.Form1.resources
+C:\Users\krisz\OneDrive\Asztali gép\Home\Book\School\quizzy\quizzy\obj\Debug\quizzy.Properties.Resources.resources
+C:\Users\krisz\OneDrive\Asztali gép\Home\Book\School\quizzy\quizzy\obj\Debug\quizzy.csproj.GenerateResource.cache
+C:\Users\krisz\OneDrive\Asztali gép\Home\Book\School\quizzy\quizzy\obj\Debug\quizzy.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\Asztali gép\Home\Book\School\quizzy\quizzy\obj\Debug\quizzy.exe
+C:\Users\krisz\OneDrive\Asztali gép\Home\Book\School\quizzy\quizzy\obj\Debug\quizzy.pdb
+C:\Users\krisz\OneDrive\Desktop\quizzy\quizzy\bin\Debug\quizzy.exe.config
+C:\Users\krisz\OneDrive\Desktop\quizzy\quizzy\bin\Debug\quizzy.exe
+C:\Users\krisz\OneDrive\Desktop\quizzy\quizzy\bin\Debug\quizzy.pdb
+C:\Users\krisz\OneDrive\Desktop\quizzy\quizzy\obj\Debug\quizzy.csproj.AssemblyReference.cache
+C:\Users\krisz\OneDrive\Desktop\quizzy\quizzy\obj\Debug\quizzy.Form1.resources
+C:\Users\krisz\OneDrive\Desktop\quizzy\quizzy\obj\Debug\quizzy.Properties.Resources.resources
+C:\Users\krisz\OneDrive\Desktop\quizzy\quizzy\obj\Debug\quizzy.csproj.GenerateResource.cache
+C:\Users\krisz\OneDrive\Desktop\quizzy\quizzy\obj\Debug\quizzy.csproj.CoreCompileInputs.cache
+C:\Users\krisz\OneDrive\Desktop\quizzy\quizzy\obj\Debug\quizzy.exe
+C:\Users\krisz\OneDrive\Desktop\quizzy\quizzy\obj\Debug\quizzy.pdb
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\bin\Debug\quizzy.exe.config
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\bin\Debug\quizzy.exe
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\bin\Debug\quizzy.pdb
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Debug\quizzy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Debug\quizzy.Form1.resources
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Debug\quizzy.Properties.Resources.resources
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Debug\quizzy.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Debug\quizzy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Debug\quizzy.exe
+C:\Users\user\Desktop\Home\Writing\Suli\quizzy\quizzy\obj\Debug\quizzy.pdb
